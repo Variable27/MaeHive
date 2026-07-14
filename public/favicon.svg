@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MaeHive favicon">
+  <rect width="64" height="64" rx="18" fill="#07182f"/>
+  <circle cx="32" cy="32" r="21" fill="#f5c542"/>
+  <path d="M20 43V21h7l5 9 5-9h7v22h-6V31l-5 8h-2l-5-8v12h-6z" fill="#07182f"/>
+</svg>
